@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Architecture</string>
+    <string name="first_activity">FirstActivity</string>
 </resources>
