@@ -17,6 +17,7 @@ public class SecondActivity extends AppCompatActivity {
         btnSecond.setOnClickListener(view->{
             Intent intent = new Intent(this,ThirdActivity.class);
             startActivity(intent);
+            finish();
         });
     }
 }
